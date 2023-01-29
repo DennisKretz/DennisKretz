@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Dennis</h1>
 <h3 align="center">brain underflow developer</h3>
-<img src="#" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Doobie.png" alt="TryHackMe">
 
 - 💬 Ask me about **Python, and Automation**
 
