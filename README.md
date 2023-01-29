@@ -18,3 +18,6 @@
 <a href="https://tryhackme.com/Doobie/badges/terminaled">
   <img src="https://assets.tryhackme.com/room-badges/691b31a58230b891a76fd4acba645059.png", width="50%" height="50%">
 </a>
+<a href="https://tryhackme.com/Doobie/badges/web-fund">
+  <img src="https://assets.tryhackme.com/room-badges/67640b963529494c3313200f1a17066d.png", width="50%" height="50%">
+</a>
