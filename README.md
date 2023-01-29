@@ -15,3 +15,6 @@
 <a href="https://tryhackme.com/Doobie/badges/network-fundamentals">
   <img src="https://assets.tryhackme.com/room-badges/170ea63fe9bfc5f122b73c9ee579ae05.png", width="50%" height="50%">
 </a>
+<a href="https://tryhackme.com/Doobie/badges/terminaled">
+  <img src="https://assets.tryhackme.com/room-badges/691b31a58230b891a76fd4acba645059.png", width="50%" height="50%">
+</a>
