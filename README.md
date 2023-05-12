@@ -4,8 +4,6 @@
 
 - 💬 Ask me about **Python, and Automation**
 
-- 📫 How to reach me **unrealdenis2020@gmail.com**
-
 <p align="left">
 </p>
 
