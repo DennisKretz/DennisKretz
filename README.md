@@ -33,6 +33,11 @@
 <br/>
 <h1>💼 My Work Experiences</h1>
 
+[![Esportal](https://liquipedia.net/commons/images/thumb/4/42/Esportal_full_lightmode.png/600px-Esportal_full_lightmode.png)](https://esportal.com/)
+<h3>Esportal - (2023 - 2024)</h3> <b>User & IT Support and Trust & Safety</b>
+
+<hr/>
+
 [![Passengersfriend](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9HkvIm8hAe_9SvMxhs2J6eGYuYg-F9YmE5g&s)](https://passengersfriend.com/)
 <h3>Passengersfriend - (2021 - 2024)</h3> <b>IT Coordinator / Specialist</b>
 <hr/>
