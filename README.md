@@ -1,4 +1,4 @@
-![psst](https://github.com/images/mona-whisper.gif) <b>Hi there, my name is Denis (Dennis)</b> |>OPEN FOR WORK<|
+![psst](https://github.com/images/mona-whisper.gif) <b>Hi there, my name is Denis (Dennis)</b>
 <br/>
 <h1>🧚 Personal Infos</h1>
 <b>Age: </b>21
